@@ -24,6 +24,17 @@ body
 	width:650px;
 }
 
+#logo
+{
+	width:100px;
+	margin-top: 20px;
+}
+
+#logo-caption
+{
+	font-size: 85%;
+}
+
 #footer
 {
 	width:640px;
